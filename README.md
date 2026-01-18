@@ -120,14 +120,9 @@ and checkout flow — designed for performance and growth.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&theme=dracula&hide_border=true" height="150" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Gamal-code&theme=dark&hide_border=true&background=0d1117" height="150" alt="GitHub Streak" />
-</p>
-
 ---
 
 
@@ -143,4 +138,4 @@ and building real products for real businesses.
 - 💼 Upwork: [Hire Me](https://www.upwork.com/freelancers/~0194a7d28b23a1525f)  
 - 🔗 LinkedIn: [Connect](https://www.linkedin.com/in/mohamed-gamal-3965663a3)  
 - 🌐 Portfolio: [Visit](https://my-portfolio-3y8d.vercel.app)
-- 📧 **Email:** [Contact me](opadmiqwn.mostafa@gmail.com)
+- 📧 **Email:** [Contact me](mailto:opadmiqwn.mostafa@gmail.com)
