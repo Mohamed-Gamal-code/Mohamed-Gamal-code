@@ -1,16 +1,146 @@
-## Hi there 👋
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" 
+    width="100%" 
+  />
 
-<!--
-**Mohamed-Gamal-code/Mohamed-Gamal-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 style="margin-top: 1px;">
+    Hi, I'm Mohamed Gamal 👋
+  </h1>
+  <h3>Full-Stack Web Developer | Next.js, Node.js & TypeScript</h3>
 
-Here are some ideas to get you started:
+  <p>
+    I create <b>production-ready, scalable web applications</b> with clean architecture and real business impact.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.upwork.com/freelancers/~0194a7d28b23a1525f">
+  <img src="https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+<a href="https://my-portfolio-3y8d.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-gamal-3965663a3">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Mohamed-Gamal-code">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Full-stack web developer specializing in **Next.js, Node.js & TypeScript**
+- 🧠 Focused on writing **clean, scalable, and high-performance code**
+- 🔐 Experienced in building **secure authentication systems and RESTful APIs**
+- 💼 Hands-on experience building **real-world healthcare and e-commerce applications**
+- 🧩 Strong problem-solver who can **understand requirements, debug issues, and deliver practical solutions**
+- 📈 I build reliable systems that help businesses grow with confidence
+
+
+
+
+---
+
+## 💼 What I Can Help You With
+
+- ✅ End-to-end **full-stack web applications** (frontend & backend)
+- 🧩 Problem solving & debugging — understanding issues and fixing them efficiently
+- ⚙️ Backend development using **Node.js, TypeScript & Express**
+- 🔐 Authentication, authorization & **role-based access control**
+- 🔌 REST APIs, third-party integrations & database-driven systems
+- ☁️ Deployment, optimization & production-ready setup on **Vercel**
+
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 MediCare – Healthcare Appointment Platform
+A full-stack healthcare system for discovering doctors, booking appointments,
+and managing schedules efficiently.
+
+- **Stack:** `Next.js 14` `TypeScript` `Tailwind CSS` `Clerk` `MongoDB`
+
+<p>
+  <a href="https://medicare-platform-gamma.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Mohamed-Gamal-code/doc-connect">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-blueviolet?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 🛒 Full-Stack E-commerce Platform
+A scalable e-commerce solution featuring product management, shopping cart,
+and checkout flow — designed for performance and growth.
+
+- **Stack:** `Next.js` `Node.js` `Express` `MongoDB`
+
+<p>
+  <a href="https://ecommerce-frontend-alpha-gray.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-Frontend-success?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://github.com/Mohamed-Gamal-code/ecommerce-frontend">
+    <img src="https://img.shields.io/badge/Frontend-Code-blueviolet?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Mohamed-Gamal-code/my-ecommerce-backend-">
+    <img src="https://img.shields.io/badge/Backend-Code-blueviolet?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-5F4B8B?style=for-the-badge&logo=clerk&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Gamal-code&theme=dark&hide_border=true&background=0d1117" height="150" alt="GitHub Streak" />
+</p>
+
+---
+
+
+## 🤝 Let's Work Together
+
+I'm open to freelance opportunities, long-term collaborations,
+and building real products for real businesses.
+
+---
+
+## 📬 Contact
+
+- 💼 Upwork: [Hire Me](https://www.upwork.com/freelancers/~0194a7d28b23a1525f)  
+- 🔗 LinkedIn: [Connect](https://www.linkedin.com/in/mohamed-gamal-3965663a3)  
+- 🌐 Portfolio: [Visit](https://my-portfolio-3y8d.vercel.app)
+- 📧 **Email:** [Contact me](opadmiqwn.mostafa@gmail.com)
