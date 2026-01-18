@@ -123,7 +123,7 @@ and checkout flow — designed for performance and growth.
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&theme=dracula&hide_border=true" height="150" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&theme=dracula&hide_border=true" height="150" />
 </p>
----
+
 
 
 ## 🤝 Let's Work Together
@@ -138,4 +138,3 @@ and building real products for real businesses.
 - 💼 Upwork: [Hire Me](https://www.upwork.com/freelancers/~0194a7d28b23a1525f)  
 - 🔗 LinkedIn: [Connect](https://www.linkedin.com/in/mohamed-gamal-3965663a3)  
 - 🌐 Portfolio: [Visit](https://my-portfolio-3y8d.vercel.app)
-- 📧 **Email:** [Contact me](mailto:opadmiqwn.mostafa@gmail.com)
