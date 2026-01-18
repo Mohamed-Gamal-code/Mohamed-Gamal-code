@@ -19,7 +19,7 @@
 <a href="https://my-portfolio-3y8d.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/mohamed-gamal-3965663a3">
+<a href="https://www.linkedin.com/in/mohamed-gamal-3965663a3" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Mohamed-Gamal-code">
