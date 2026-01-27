@@ -121,24 +121,17 @@ and checkout flow — designed for performance and growth.
 
 <div align="center">
 
-## 🚀 My Professional Activity
+## 📊 My GitHub Insights
 
-| 🏆 **Github Stats** | 🛠 **Tech Stack** |
+| 📊 **GitHub Statistics** | ⚡ **Tech Stack** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E6B450&icon_color=E6B450&text_color=b3b3b3" height="170" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=E6B450&text_color=b3b3b3" height="170" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5c6bc0&icon_color=c5cae9&text_color=7986cb" height="175" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=5c6bc0&text_color=7986cb" height="175" /> |
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Mohamed-Gamal-code&color=E6B450&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Gamal-code&color=818cf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
-
-
-
-
-
-
-
 
 
 
