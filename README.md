@@ -119,10 +119,27 @@ and checkout flow — designed for performance and growth.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&theme=dracula&hide_border=true" height="150" />
-</p>
+<div align="center">
+
+## 🚀 My Professional Activity
+
+| 🏆 **Github Stats** | 🛠 **Tech Stack** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E6B450&icon_color=E6B450&text_color=b3b3b3" height="170" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=E6B450&text_color=b3b3b3" height="170" /> |
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Gamal-code&color=E6B450&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+
+
+
+
+
+
+
 
 
 
