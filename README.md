@@ -125,7 +125,7 @@ and checkout flow — designed for performance and growth.
 
 | 📊 **GitHub Statistics** | ⚡ **Tech Stack** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5c6bc0&icon_color=c5cae9&text_color=7986cb" height="175" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=5c6bc0&text_color=7986cb" height="175" /> |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohamed-Gamal-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5c6bc0&icon_color=c5cae9&text_color=7986cb" height="175" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Gamal-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=5c6bc0&text_color=7986cb" height="175" /> |
 
 <br />
 
