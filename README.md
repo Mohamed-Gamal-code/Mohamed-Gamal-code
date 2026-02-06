@@ -98,10 +98,9 @@ and checkout flow — designed for performance and growth.
 
 A production-ready, full-stack hotel booking platform built to deliver a refined guest experience, combining elegant UI with reliable booking workflows.
 
-Tech Stack:
-Next.js 15 (App Router) · TypeScript · Tailwind CSS ·
-Supabase (PostgreSQL, Auth, RLS) · Server Actions · SSR
+### 🛠️ Tech Stack:
 
+**Next.js 15 (App Router)** · **TypeScript** · **Tailwind CSS** · **Supabase (PostgreSQL, Auth, RLS)** · **Server Actions** · **SSR**
 <p> 
   <a href="https://luxestay-guest-platform.vercel.app"> 
     <img src="https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel" /> 
